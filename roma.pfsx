@@ -17,7 +17,7 @@
         <String>@ovm1978f-text</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>64360</Long>
+        <Long>0</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>249</Int>
@@ -101,7 +101,7 @@
         <Float>100.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>46790</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -116,10 +116,10 @@
         <Float>0.5</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>46630</Long>
+        <Long>160</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>46790</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="@rvm1978m-text">
