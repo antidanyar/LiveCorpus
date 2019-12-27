@@ -23,7 +23,7 @@
         <String>@nn1982m-words</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>97330</Long>
+        <Long>5600</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>249</Int>
@@ -111,7 +111,7 @@
         <Float>100.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>74830</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -129,20 +129,20 @@
         <Float>0.7</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>80570</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>74830</Long>
+        <Long>6780</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="@rvm1978m-text">
             <Object class="java.awt.Color">90,0,90</Object>
         </pref>
-        <pref key="@ovm1978f-text">
-            <Object class="java.awt.Color">0,160,0</Object>
-        </pref>
         <pref key="@nn1982m-text">
             <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
+        <pref key="@ovm1978f-text">
+            <Object class="java.awt.Color">0,160,0</Object>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
@@ -152,10 +152,13 @@
         <String>@ovm1978f-words</String>
         <String>@rvm1978m-words</String>
         <String>@nn1982m-words</String>
+        <String>@ovm1978f-stress</String>
+        <String>@rvm1978m-stress</String>
+        <String>@nn1982m-stress</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>70</Int>
+        <Int>1</Int>
     </pref>
     <prefList key="ExportTabDialog.LastSelectedItems">
         <String>words</String>
